@@ -4,6 +4,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/oebreme)](https://github.com/oebreme) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/johanneslenk/)](https://www.linkedin.com/in/johanneslenk)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/oebreme)](https://discordapp.com/users/oebreme)
+<img src="https://komarev.com/ghpvc/?username=oebreme&style=flat-square&color=blue" alt=""/>
 
 ### About me
 I'm a **Apprentice 🎓 [@ DATEV eG](https://www.datev.de/)** studying Software Development. I get much joy out of learning new software-related things, having a nice cup of coffee, or simply collaborating with friendly human beeings. I'm still in the early stages of my career, but I believe I'm headed in the right direction for Mt. Stupid 🏔️
