@@ -32,3 +32,6 @@ I'm a **Apprentice 🎓 [@ DATEV eG](https://www.datev.de/)** studying Software 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+
+### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oebreme&layout=compact&border_radius=0&theme=github_dark_dimmed&hide_border=true&card_width=600&langs_count=8)](https://github.com/oebreme)
