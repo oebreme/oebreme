@@ -3,7 +3,6 @@
 ### Find me at
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/oebreme)](https://github.com/oebreme) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/johanneslenk/)](https://www.linkedin.com/in/johanneslenk)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/19066862/oebreme)](https://stackoverflow.com/users/19066862/oebreme)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/oebreme)](https://discordapp.com/users/oebreme)
 
 ### About me
