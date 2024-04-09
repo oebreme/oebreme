@@ -34,6 +34,7 @@ I'm a **Apprentice 🎓 [@ DATEV eG](https://www.datev.de/)** studying Software 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oebreme&layout=compact&border_radius=0&theme=github_dark_dimmed&hide_border=true&card_width=600&langs_count=8)](https://github.com/oebreme)
