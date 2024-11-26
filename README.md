@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=oebreme&style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
 
 ### About me
-I'm a **Apprentice 🎓 [@ DATEV eG](https://www.datev.de/)** studying Software Development. I get much joy out of learning new software-related things, having a nice cup of coffee, or simply collaborating with friendly human beeings. I'm still in the early stages of my career, but I believe I'm headed in the right direction for Mt. Stupid 🏔️
+I'm a **Software Engineer 🎓 [@ DATEV eG](https://www.datev.de/)**. I get much joy out of learning new software-related things, having a nice cup of coffee, or simply collaborating with friendly human beeings. I'm still in the early stages of my career, but I believe I'm headed in the right direction for Mt. Stupid 🏔️
 
 ---
 
